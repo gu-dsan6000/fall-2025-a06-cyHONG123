@@ -1,0 +1,11 @@
+log_entry,log_level
+17/03/23 15:21:59 INFO storage.MemoryStore: Block broadcast_6_piece233 stored as bytes in memory (estimated size 4.0 MB\, free 822.7 MB),INFO
+17/02/01 18:54:57 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 90993,INFO
+17/06/08 11:34:31 INFO python.PythonRunner: Times: total = 43\, boot = -217\, init = 259\, finish = 1,INFO
+17/06/09 17:20:21 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 129513,INFO
+17/06/09 15:45:51 INFO executor.Executor: Finished task 2.0 in stage 118.0 (TID 4722). 2156 bytes result sent to driver,INFO
+17/06/08 20:06:57 INFO storage.BlockManager: Removing RDD 3700,INFO
+17/03/29 19:37:09 INFO BlockManagerInfo: Added broadcast_4_piece182 in memory on mesos-slave-13:46444 (size: 4.0 MB\, free: 12.2 GB),INFO
+17/06/08 19:52:25 INFO storage.BlockManager: Found block rdd_10296_9 locally,INFO
+17/06/09 12:45:23 INFO storage.BlockManager: Removing RDD 13422,INFO
+17/06/08 12:06:12 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 1,INFO
